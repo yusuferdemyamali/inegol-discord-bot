@@ -52,7 +52,7 @@ client.on('message', msg => {
   }
 });
 
-//Arap selamı verilince özelden atılacak mesaj.
+//Yazı kanallarında lol ile ilgili muhabbet geçince özelden atılacak mesaj.
 client.on('message', msg => {
   if (msg.content.toLowerCase() ==='lol') {
     msg.author.send('sunucu icerisinde lol hakkında konusmak yasak');
