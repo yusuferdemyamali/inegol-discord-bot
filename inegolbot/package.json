@@ -1,9 +1,9 @@
 {
-  "name": "lejyonbot",
+  "name": "inegolbot",
   "version": "0.0.1",
-  "main": "lejyon.js",
+  "main": "inegolbot.js",
   "scripts": {
-    "test": "node lejyon.js"
+    "test": "node inegolbot.js"
   },
   "author": "inegol",
   "license": "ISC",
