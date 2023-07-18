@@ -2,5 +2,5 @@ echo off
 color 0f
 cls
 :a
-node lejyon.js
+node inegolbot.js
 goto a
